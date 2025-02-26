@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) on Layoff Trends Using SQL
 ## Project Overview
-This project explores global layoff trends using SQL to analyze key patterns in employment reductions. The dataset, layoffs_staging2, contains information on layoffs across different companies, countries, and time periods. The analysis uncovers trends, identifies companies with the highest layoffs, and evaluates the impact of layoffs over time.
+This project explores global layoff trends using SQL to analyse key patterns in employment reductions. The dataset, layoffs_staging2, contains information on layoffs across different companies, countries, and time periods. The analysis uncovers trends, identifies companies with the highest layoffs, and evaluates the impact of layoffs over time.
 
 ## Key Analyses & Queries
 **Dataset Overview**: Displays the full dataset to understand its structure.
